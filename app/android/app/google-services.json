@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711309013026",
+    "project_id": "patha-2305",
+    "storage_bucket": "patha-2305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711309013026:android:7c79708183ab9c74ec9a7b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2AToXGMZzjaUcsnDcP8ILBtAHlZyuxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
