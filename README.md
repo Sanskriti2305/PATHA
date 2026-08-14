@@ -17,6 +17,7 @@ Road damage such as potholes, cracks, and surface deterioration can create safet
 
 The platform brings together **citizen reporting, geo-tagging, image evidence, cloud storage, complaint tracking, and interactive map visualization** in a single system.
 
+Project Timeline: Feb 2026 – March 2026
 ---
 
 ## The Problem
